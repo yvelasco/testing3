@@ -1,1 +1,1 @@
-Sitemap: https://yvelasco.github.io/testing3.github.io/sitemap.xml
+Sitemap: https://yvelasco.github.io/testing3/sitemap.xml
