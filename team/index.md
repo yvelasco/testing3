@@ -7,9 +7,12 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- Profiles on each research team member and their roles.
+- Includes photo, short bio, academic background, research interests, and specific role(s) in the project.
+- Also include any relevant expertise and notable achievements/awards relevant to this research. 
+- Mention any unique skills or perspectives they bring to the research. 
+- Ways for visitors to get in touch with the research team for more information or collaboration opportunities.
+
 
 {% include section.html %}
 
