@@ -7,7 +7,7 @@
 
 {% include section.html %}
 
-## New Highlights
+## Project Overview
 
 {% capture text %}
 
