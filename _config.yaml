@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: yvelascoDESCRIPTION=An engaging 1-3 sentence description of your lab.
+title: CSED Help-Seeking
 subtitle: 
 description: 
-header: images/background.jpg
-footer: images/background.jpg
+header: images/logo.jpeg
+footer: images/logo.jpeg
 proofer: false
 
 # site social media and other links
