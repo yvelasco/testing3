@@ -3,11 +3,7 @@
 
 # Project Overview
 
-
-
 {% include section.html %}
-
-## Project Overview
 
 - Summary of the project goals, objectives, and methodologies.
 - Description of motivation & impact
