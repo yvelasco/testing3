@@ -7,13 +7,13 @@ footer: images/logo.jpeg
 proofer: false
 
 # site social media and other links
-links:
-  email: contact@yvelascoDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: yvelascoDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: yvelascoDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: yvelascoDESCRIPTION=An engaging 1-3 sentence description of your lab.
+#links:
+#  email: contact@yvelascoDESCRIPTION=An engaging 1-3 sentence description of your lab..com
+#  orcid: 0000-0001-8713-9213
+#  google-scholar: ETJoidYAAAAJ
+#  github: yvelascoDESCRIPTION=An engaging 1-3 sentence description of your lab.
+#  twitter: yvelascoDESCRIPTION=An engaging 1-3 sentence description of your lab.
+#  youtube: yvelascoDESCRIPTION=An engaging 1-3 sentence description of your lab.
 
 ### jekyll settings
 
