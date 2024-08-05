@@ -1,7 +1,7 @@
 ---
 ---
 
-# CSED Help-Seeking
+# Project Overview
 
 
 
@@ -9,6 +9,11 @@
 
 ## Project Overview
 
+- Summary of the project goals, objectives, and methodologies.
+- Description of motivation & impact
+- Context on which this research is being conducted
+
+<!---
 {% capture text %}
 
 This is plain text
@@ -64,7 +69,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet our research team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -79,3 +84,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+-->
