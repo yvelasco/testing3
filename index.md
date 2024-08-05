@@ -1,17 +1,17 @@
 ---
 ---
 
-# yvelascoDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# CSED Help-Seeking
 
 
 
 {% include section.html %}
 
-## Highlights
+## New Highlights
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This is plain text
 
 {%
   include button.html
