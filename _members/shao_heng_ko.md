@@ -3,7 +3,9 @@ name: Shao-Heng Ko
 image: images/shaoheng.png
 role: phd
 group: alum
+affiliation: Duke University
 links:
+  email: shaoheng.ko@duke.edu
   home-page: https://shaohengko.github.io
   orcid: 0000-0003-0647-2837
 ---
