@@ -16,6 +16,11 @@ This proposal builds upon previous work from the PIs, which investigated student
 1. Characterize the help resource landscape, how and why students traverse it, and whether their help resource use is effective.
 2. Empower students to effectively use the help resource landscape for their learning.
 
+## Research Questions
+1. How do students use help resources in terms of the landscape, frequency, and order?
+2. Why do students use the help resources the way they did, and is it effective?
+3. Will our intervention help students be more effective when seeking help? Does explicitly teaching students about the help resource landscape and having them plan how they will seek help influence student outcomes?
+
 ## Methods
 1. Quantitative analysis of help resource usage and patterns.
 2. Qualitative interviews with students and TAs to understand help-seeking behaviors.
