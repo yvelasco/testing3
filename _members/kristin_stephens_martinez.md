@@ -4,8 +4,8 @@ image: images/stephensmartinez.jpg
 role: pi
 affiliation: Duke University
 aliases:
-  - Heckman
-  - sheckman
+  - Stephens-Martinez
+  - ksm
 links:
   email: ksm@cs.duke.edu
   home-page: https://users.cs.duke.edu/~ksm/
