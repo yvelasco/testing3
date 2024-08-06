@@ -1,7 +1,7 @@
 ---
 title: Project Outcomes
 nav:
-  order: 3
+  order: 2
   tooltip: Interventions, resources, datasets, and more
 ---
 
