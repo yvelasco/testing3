@@ -1,6 +1,8 @@
 ---
 ---
 
+{% include section.html background="images/background.jpg" dark=true %}
+
 # Project Overview
 
 {% include section.html %}
@@ -40,6 +42,8 @@ Key features of Duke's environment include:
 - A significant proportion of first-generation college students, with 20% coming from economically disadvantaged backgrounds.
 - A diverse student population, with efforts to support first-generation and low-income scholars through programs and initiatives.
 - Strong emphasis on cultural competence and inclusive teaching practices, with faculty involved in initiatives like the Cultural Competence in Computing (3C) Fellows program to foster more inclusive computing environments.
+
+{% include section.html background="images/background.jpg" dark=true %}
 
 <!---
 - TODO: Summary of the project goals, objectives, and methodologies.
