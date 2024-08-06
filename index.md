@@ -1,8 +1,6 @@
 ---
 ---
 
-{% include section.html background="images/background.jpg" dark=true %}
-
 # Project Overview
 
 {% include section.html %}
