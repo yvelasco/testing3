@@ -7,6 +7,7 @@ aliases:
   - Battestilli
   - lbattestilli
 links:
+  email: lbattestilli@ncsu.edu
   home-page: https://battestilli.wordpress.ncsu.edu
   orcid: 0000-0002-1450-9700
 ---
