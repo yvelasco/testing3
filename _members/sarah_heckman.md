@@ -1,5 +1,5 @@
 ---
-name: Sarah Smith Heckman
+name: Sarah S. Heckman
 image: images/Heckman.jpg
 role: pi
 affiliation: North Carolina State University
