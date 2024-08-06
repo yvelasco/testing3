@@ -1,6 +1,6 @@
 ---
 name: Sarah S. Heckman
-image: images/Heckman.jpg
+image: images/heckman.jpg
 role: pi
 affiliation: North Carolina State University
 aliases:
