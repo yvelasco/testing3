@@ -18,6 +18,19 @@
 - id: https://doi.org/10.1145/3626252.3630851
   image: https://duke.box.com/shared/static/dabygh9d7jyxmulro1pjepv6km1qe1wn.png
 
+# Using Survival Analysis to Model Students' Patience in Online Office Hour Queues
+- id: https://doi.org/10.1145/3626253.3635517
+  image: https://duke.box.com/shared/static/pkn1ziq3badfyftfusd1vj4xb0dvbaka.png
+
+# Observations on Student Help-Seeking Behaviors in Introductory Computer Science Courses
+- id: https://doi.org/10.1145/3545947.3576325
+
+# Too long to wait and not much to do: Modeling student behaviors while waiting for help in online office hours.
+- id: https://par.nsf.gov/biblio/10392589
+
+#https://par.nsf.gov/biblio/10392589
+#https://www.researchgate.net/publication/371072286_Too_long_to_wait_and_not_much_to_do_Modeling_student_behaviors_while_waiting_for_help_in_online_office_hours
+
 - id: doi:10.1371/journal.pcbi.1007128
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
