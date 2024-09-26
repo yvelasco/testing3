@@ -69,11 +69,13 @@
 
 # S3xE7: Class Forums with Amogh Mannekote
 - id: https://csedpodcast.org/blog/s3e7_class_forums/
+  image: https://duke.box.com/shared/static/o10b61oyskn47g60sv7nvb03u425f3c8.png
 
 # S3xE9: Peer Teaching Summit at SIGCSE TS 2022
 - id: https://csedpodcast.org/blog/s3e9_peer_teaching/
-  
+  image: https://duke.box.com/shared/static/o10b61oyskn47g60sv7nvb03u425f3c8.png
 
+# TODO: Delete
 - id: doi:10.1371/journal.pcbi.1007128
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
