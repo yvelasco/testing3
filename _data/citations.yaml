@@ -351,7 +351,7 @@
   image: https://duke.box.com/shared/static/5kysrc8likp34rpoj3aduu503f7zfkdp.png
   plugin: sources.py
   file: sources.yaml
-- id: "https://eric.ed.gov/?q=You+asked%2c+now+what%3f+Modeling+Students\u2019+Help-Seeking+and+Coding+actions+from+Re-+quest+to+Resolution&id=EJ1373162"
+- id: https://eric.ed.gov/?id=EJ1373162
   title: You Asked, Now What? Modeling Students' Help-Seeking and Coding Actions from
     Request to Resolution
   authors:
@@ -364,5 +364,62 @@
   publisher: Journal of Educational Data Mining
   date: '2022-01-01'
   link: https://eric.ed.gov/?id=EJ1373162
+  image: https://duke.box.com/shared/static/li0kg0wy19erjmkbgftzaz83sqkx7my9.png
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1145/3587102.3588786
+  title: Assessment of Self-Identified Learning Struggles in CS2 Programming Assignments
+  authors:
+  - Matthew Zahn
+  - Isabella Gransbury
+  - Sarah Heckman
+  - Lina Battestilli
+  publisher: Proceedings of the 2023 Conference on Innovation and Technology in Computer
+    Science Education V. 1
+  date: '2023-06-30'
+  link: https://doi.org/10.1145/3587102.3588786
+  image: https://duke.box.com/shared/static/upz0eguyzk0pt24s44qepf93v25ta7qz.png
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1145/3478431.3499334
+  title: Who Uses Office Hours? A Comparison of In-Person and Virtual Office Hours
+    Utilization
+  authors:
+  - Zhikai Gao
+  - Sarah Heckman
+  - Collin Lynch
+  publisher: Proceedings of the 53rd ACM Technical Symposium on Computer Science Education
+    - Volume 1
+  date: '2022-02-22'
+  link: https://doi.org/10.1145/3478431.3499334
+  image: https://duke.box.com/shared/static/3580z530ax092fkajvzamdux96wzx6tt.png
+  plugin: sources.py
+  file: sources.yaml
+- id: https://eric.ed.gov/?id=ED624046
+  title: 'Admitting You Have a Problem Is the First Step: Modeling When and Why Students
+    Seek Help in Programming Assignments'
+  authors:
+  - Zhikai Gao
+  - Bradley Erickson
+  - Yiqiao Xu
+  - Collin Lynch
+  - Sarah Heckman
+  - Tiffany Barnes
+  publisher: International Educational Data Mining Society
+  date: '2022-01-01'
+  link: https://eric.ed.gov/?id=ED624046
+  image: https://duke.box.com/shared/static/7fsln59ug28v04w1xo951kd82o1hxzkz.png
+  plugin: sources.py
+  file: sources.yaml
+- id: https://eric.ed.gov/?q=source%3A%22International+Educational+Data+Mining+Society%22&ff1=dtySince_2000&id=ED615496
+  title: 'Automatically Classifying Student Help Requests: A Multi-Year Analysis'
+  authors:
+  - Zhikai Gao
+  - Collin Lynch
+  - Sarah Heckman
+  - Tiffany Barnes
+  publisher: International Educational Data Mining Society
+  date: '2021-01-01'
+  link: https://eric.ed.gov/?id=ED615496
   plugin: sources.py
   file: sources.yaml
