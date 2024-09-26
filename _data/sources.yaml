@@ -56,11 +56,16 @@
   image: https://duke.box.com/shared/static/7fsln59ug28v04w1xo951kd82o1hxzkz.png
 
 # Automatically Classifying Student Help Requests: A Multi-Year Analysis.
-- id: https://eric.ed.gov/?q=source%3A%22International+Educational+Data+Mining+Society%22&ff1=dtySince_2000&id=ED615496
-#  image: https://duke.box.com/shared/static/7fsln59ug28v04w1xo951kd82o1hxzkz.png  
+- id: https://eric.ed.gov/?id=ED615496
+  image: https://duke.box.com/s/finpv5l406dr4g0empwxqf5q2s4shpdk 
 
-#https://par.nsf.gov/biblio/10392589
-#https://www.researchgate.net/publication/371072286_Too_long_to_wait_and_not_much_to_do_Modeling_student_behaviors_while_waiting_for_help_in_online_office_hours
+# My digital hand: A tool for scaling up one-to-one peer teaching in support of computer science learning.
+- id: https://doi.org/10.1145/3017680.301780
+  image: https://duke.box.com/shared/static/p98nbqnixe135qjgr2zxotbl56b8tzm1.png
+
+# Deconstructing the discussion forum: Student questions and computer science learning.
+- id: https://doi.org/10.1145/3017680.3017745
+  image: https://duke.box.com/shared/static/9hr1zy9xjoyrn5v1jxk4qcrqdnmhmdsw.png
 
 - id: doi:10.1371/journal.pcbi.1007128
   type: paper
