@@ -450,3 +450,21 @@
   image: https://duke.box.com/shared/static/9hr1zy9xjoyrn5v1jxk4qcrqdnmhmdsw.png
   plugin: sources.py
   file: sources.yaml
+- id: https://csedpodcast.org/blog/s3e7_class_forums/
+  title: 'S3xE7: Class Forums with Amogh Mannekote'
+  authors:
+  - Kristin Stephen-Martinez
+  publisher: ''
+  date: '2022-12-05'
+  link: https://csedpodcast.org/blog/s3e7_class_forums/
+  plugin: sources.py
+  file: sources.yaml
+- id: https://csedpodcast.org/blog/s3e9_peer_teaching/
+  title: 'S3xE9: Peer Teaching Summit at SIGCSE TS 2022'
+  authors:
+  - Kristin Stephen-Martinez
+  publisher: ''
+  date: '2023-03-06'
+  link: https://csedpodcast.org/blog/s3e9_peer_teaching/
+  plugin: sources.py
+  file: sources.yaml
