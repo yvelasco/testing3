@@ -1,5 +1,22 @@
+# This is for the current grant
+# The Trees in the Forest: Characterizing Computing Students' Individual Help-Seeking Approaches
+- id: https://doi.org/10.1145/3632620.3671099
+  image: https://duke.box.com/shared/static/n1265pzl4c75ezru5zvx3jfk2jyo6icr.png
+
+# What Drives Students to Office Hours: Individual Differences and Similarities
 - id: https://doi.org/10.1145/3545945.3569777
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: https://duke.box.com/shared/static/lzynqrpx2m0dvj2vkgy9hojt2ytraal2.png
+
+# UPIC a Problem-Solving Framework: Understand, Plan, Implement, and Correctness/Debugging
+- id: https://doi.org/10.1145/3501709.3544286
+  image: https://duke.box.com/shared/static/9k4hzdh51za59kj5afua2h1vlksrs1a5.png
+
+# Don't Just Paste Your Stacktrace: Shaping Discussion Forums in Introductory CS Courses
+- id: https://doi.org/10.1145/3478432.3499110
+
+# Exploring Novice Programmers' Testing Behavior: A First Step to Define Coding Struggle
+- id: https://doi.org/10.1145/3626252.3630851
+  image: https://duke.box.com/shared/static/dabygh9d7jyxmulro1pjepv6km1qe1wn.png
 
 - id: doi:10.1371/journal.pcbi.1007128
   type: paper
@@ -18,9 +35,3 @@
     - open science
     - collaboration
   repo: greenelab/meta-review
-
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
