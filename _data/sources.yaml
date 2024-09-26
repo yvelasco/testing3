@@ -37,9 +37,27 @@
   image: https://duke.box.com/shared/static/5kysrc8likp34rpoj3aduu503f7zfkdp.png
 
 # You asked, now what? Modeling Students’ Help-Seeking and Coding actions from Re- quest to Resolution
-- id: https://eric.ed.gov/?q=You+asked%2c+now+what%3f+Modeling+Students’+Help-Seeking+and+Coding+actions+from+Re-+quest+to+Resolution&id=EJ1373162
-#  image: https://duke.box.com/shared/static/5kysrc8likp34rpoj3aduu503f7zfkdp.png
+- id: https://eric.ed.gov/?id=EJ1373162
+  image: https://duke.box.com/shared/static/li0kg0wy19erjmkbgftzaz83sqkx7my9.png
 
+# Assessment of Self-Identified Learning Struggles in CS2 Programming Assignments
+- id: https://doi.org/10.1145/3587102.3588786
+  image: https://duke.box.com/shared/static/upz0eguyzk0pt24s44qepf93v25ta7qz.png
+
+# Don't Just Paste Your Stacktrace: Shaping Discussion Forums in Introductory CS Courses
+- id: https://doi.org/10.1145/3478432.3499110
+
+# Who uses office hours? a comparison of in-person and virtual office hours utilization.
+- id: https://doi.org/10.1145/3478431.3499334
+  image: https://duke.box.com/shared/static/3580z530ax092fkajvzamdux96wzx6tt.png
+
+# Admitting You Have a Problem Is the First Step: Modeling When and Why Students Seek Help in Programming Assignments
+- id: https://eric.ed.gov/?id=ED624046
+  image: https://duke.box.com/shared/static/7fsln59ug28v04w1xo951kd82o1hxzkz.png
+
+# Automatically Classifying Student Help Requests: A Multi-Year Analysis.
+- id: https://eric.ed.gov/?q=source%3A%22International+Educational+Data+Mining+Society%22&ff1=dtySince_2000&id=ED615496
+#  image: https://duke.box.com/shared/static/7fsln59ug28v04w1xo951kd82o1hxzkz.png  
 
 #https://par.nsf.gov/biblio/10392589
 #https://www.researchgate.net/publication/371072286_Too_long_to_wait_and_not_much_to_do_Modeling_student_behaviors_while_waiting_for_help_in_online_office_hours
