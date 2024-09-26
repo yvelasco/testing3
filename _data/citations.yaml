@@ -457,6 +457,7 @@
   publisher: ''
   date: '2022-12-05'
   link: https://csedpodcast.org/blog/s3e7_class_forums/
+  image: https://duke.box.com/shared/static/o10b61oyskn47g60sv7nvb03u425f3c8.png
   plugin: sources.py
   file: sources.yaml
 - id: https://csedpodcast.org/blog/s3e9_peer_teaching/
@@ -466,5 +467,6 @@
   publisher: ''
   date: '2023-03-06'
   link: https://csedpodcast.org/blog/s3e9_peer_teaching/
+  image: https://duke.box.com/shared/static/o10b61oyskn47g60sv7nvb03u425f3c8.png
   plugin: sources.py
   file: sources.yaml
