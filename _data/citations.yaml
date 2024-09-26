@@ -218,6 +218,18 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- id: https://doi.org/10.1145/3545945.3569777
+  title: 'What Drives Students to Office Hours: Individual Differences and Similarities'
+  authors:
+  - Shao-Heng Ko
+  - Kristin Stephens-Martinez
+  publisher: Proceedings of the 54th ACM Technical Symposium on Computer Science Education
+    V. 1
+  date: '2023-03-03'
+  link: https://doi.org/10.1145/3545945.3569777
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
