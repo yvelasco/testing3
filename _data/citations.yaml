@@ -411,7 +411,7 @@
   image: https://duke.box.com/shared/static/7fsln59ug28v04w1xo951kd82o1hxzkz.png
   plugin: sources.py
   file: sources.yaml
-- id: https://eric.ed.gov/?q=source%3A%22International+Educational+Data+Mining+Society%22&ff1=dtySince_2000&id=ED615496
+- id: https://eric.ed.gov/?id=ED615496
   title: 'Automatically Classifying Student Help Requests: A Multi-Year Analysis'
   authors:
   - Zhikai Gao
@@ -421,5 +421,32 @@
   publisher: International Educational Data Mining Society
   date: '2021-01-01'
   link: https://eric.ed.gov/?id=ED615496
+  image: https://duke.box.com/s/finpv5l406dr4g0empwxqf5q2s4shpdk
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1145/3017680.301780
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/10.1145/3017680.301780
+  image: https://duke.box.com/shared/static/p98nbqnixe135qjgr2zxotbl56b8tzm1.png
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1145/3017680.3017745
+  title: 'Deconstructing the Discussion Forum: Student Questions and Computer Science
+    Learning'
+  authors:
+  - Mickey Vellukunnel
+  - Philip Buffum
+  - Kristy Elizabeth Boyer
+  - Jeffrey Forbes
+  - Sarah Heckman
+  - Ketan Mayer-Patel
+  publisher: Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science
+    Education
+  date: '2017-03-08'
+  link: https://doi.org/10.1145/3017680.3017745
+  image: https://duke.box.com/shared/static/9hr1zy9xjoyrn5v1jxk4qcrqdnmhmdsw.png
   plugin: sources.py
   file: sources.yaml
