@@ -67,6 +67,13 @@
 - id: https://doi.org/10.1145/3017680.3017745
   image: https://duke.box.com/shared/static/9hr1zy9xjoyrn5v1jxk4qcrqdnmhmdsw.png
 
+# S3xE7: Class Forums with Amogh Mannekote
+- id: https://csedpodcast.org/blog/s3e7_class_forums/
+
+# S3xE9: Peer Teaching Summit at SIGCSE TS 2022
+- id: https://csedpodcast.org/blog/s3e9_peer_teaching/
+  
+
 - id: doi:10.1371/journal.pcbi.1007128
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
