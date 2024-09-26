@@ -287,3 +287,45 @@
   image: https://duke.box.com/shared/static/dabygh9d7jyxmulro1pjepv6km1qe1wn.png
   plugin: sources.py
   file: sources.yaml
+- id: https://doi.org/10.1145/3626253.3635517
+  title: Using Survival Analysis to Model Students' Patience in Online Office Hour
+    Queues
+  authors:
+  - Zhikai Gao
+  - Adam Gaweda
+  - Collin Lynch
+  - Sarah Heckman
+  - Damilola Babalola
+  - Gabriel Silva de Oliveira
+  publisher: Proceedings of the 55th ACM Technical Symposium on Computer Science Education
+    V. 2
+  date: '2024-03-15'
+  link: https://doi.org/10.1145/3626253.3635517
+  image: https://duke.box.com/shared/static/pkn1ziq3badfyftfusd1vj4xb0dvbaka.png
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1145/3545947.3576325
+  title: Observations on Student Help-Seeking Behaviors in Introductory Computer Science
+    Courses
+  authors:
+  - Matthew Zahn
+  - Sarah Heckman
+  publisher: Proceedings of the 54th ACM Technical Symposium on Computer Science Education
+    V. 2
+  date: '2023-03-06'
+  link: https://doi.org/10.1145/3545947.3576325
+  plugin: sources.py
+  file: sources.yaml
+- id: https://par.nsf.gov/biblio/10392589
+  title: 'Too long to wait and not much to do: Modeling student behaviors while waiting
+    for help in online office hours.'
+  authors:
+  - Zhikai Gao
+  - Collin Lynch
+  - Sarah Heckman
+  publisher: Proceedings of the 7th Educational Data Mining in Computer Science Education
+    (CSEDM) Workshop
+  date: '2023-07-01'
+  link: https://par.nsf.gov/biblio/10392589-too-long-wait-much-do-modeling-student-behaviors-while-waiting-help-online-office-hours
+  plugin: sources.py
+  file: sources.yaml
