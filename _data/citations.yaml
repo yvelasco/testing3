@@ -329,3 +329,40 @@
   link: https://par.nsf.gov/biblio/10392589-too-long-wait-much-do-modeling-student-behaviors-while-waiting-help-online-office-hours
   plugin: sources.py
   file: sources.yaml
+- id: https://doi.org/10.5281/zenodo.12729866
+  title: Who Should I Help Next? Simulation of Office Hours Queue Scheduling Strategy
+    in a CS2 Course
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://zenodo.org/records/12729866
+  image: https://duke.box.com/shared/static/fwsap9gen6ty2yc4qefb3gmlyj8w2heq.png
+  plugin: sources.py
+  file: sources.yaml
+- id: http://dx.doi.org/10.18260/1-2--41526
+  title: Academic Help Seeking Patterns in Introductory Computer Science Courses
+  authors:
+  - Lina Battestilli
+  - Matthew Zahn
+  - Sarah Heckman
+  publisher: 2022 ASEE Annual Conference & Exposition Proceedings
+  date: '2022-08-01'
+  link: http://peer.asee.org/41526
+  image: https://duke.box.com/shared/static/5kysrc8likp34rpoj3aduu503f7zfkdp.png
+  plugin: sources.py
+  file: sources.yaml
+- id: "https://eric.ed.gov/?q=You+asked%2c+now+what%3f+Modeling+Students\u2019+Help-Seeking+and+Coding+actions+from+Re-+quest+to+Resolution&id=EJ1373162"
+  title: You Asked, Now What? Modeling Students' Help-Seeking and Coding Actions from
+    Request to Resolution
+  authors:
+  - Zhikai Gao
+  - Bradley Erickson
+  - Yiqiao Xu
+  - Collin Lynch
+  - Sarah Heckman
+  - Tiffany Barnes
+  publisher: Journal of Educational Data Mining
+  date: '2022-01-01'
+  link: https://eric.ed.gov/?id=EJ1373162
+  plugin: sources.py
+  file: sources.yaml
