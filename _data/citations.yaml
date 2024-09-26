@@ -218,6 +218,19 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- id: https://doi.org/10.1145/3632620.3671099
+  title: 'The Trees in the Forest: Characterizing Computing Students'' Individual
+    Help-Seeking Approaches'
+  authors:
+  - Shao-Heng Ko
+  - Kristin Stephens-Martinez
+  publisher: Proceedings of the 2024 ACM Conference on International Computing Education
+    Research - Volume 1
+  date: '2024-08-12'
+  link: https://doi.org/10.1145/3632620.3671099
+  image: https://duke.box.com/shared/static/n1265pzl4c75ezru5zvx3jfk2jyo6icr.png
+  plugin: sources.py
+  file: sources.yaml
 - id: https://doi.org/10.1145/3545945.3569777
   title: 'What Drives Students to Office Hours: Individual Differences and Similarities'
   authors:
@@ -227,33 +240,50 @@
     V. 1
   date: '2023-03-03'
   link: https://doi.org/10.1145/3545945.3569777
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: https://duke.box.com/shared/static/lzynqrpx2m0dvj2vkgy9hojt2ytraal2.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: https://doi.org/10.1145/3501709.3544286
+  title: 'UPIC a Problem-Solving Framework: Understand, Plan, Implement, and Correctness/Debugging'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Sadhana Suryadevara
+  - Kristin Stephens-Martinez
+  publisher: Proceedings of the 2022 ACM Conference on International Computing Education
+    Research - Volume 2
+  date: '2022-08-07'
+  link: https://doi.org/10.1145/3501709.3544286
+  image: https://duke.box.com/shared/static/9k4hzdh51za59kj5afua2h1vlksrs1a5.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: https://doi.org/10.1145/3478432.3499110
+  title: 'Don''t Just Paste Your Stacktrace: Shaping Discussion Forums in Introductory
+    CS Courses'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Amogh Mannekote
+  - Mehmet Celepkolu
+  - Aisha Chung Galdo
+  - Kristy Elizabeth Boyer
+  - Maya Israel
+  - Sarah Heckman
+  - Kristin Stephens-Martinez
+  publisher: Proceedings of the 53rd ACM Technical Symposium on Computer Science Education
+    V. 2
+  date: '2022-03-03'
+  link: https://doi.org/10.1145/3478432.3499110
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1145/3626252.3630851
+  title: 'Exploring Novice Programmers'' Testing Behavior: A First Step to Define
+    Coding Struggle'
+  authors:
+  - Gabriel Silva de Oliveira
+  - Zhikai Gao
+  - Sarah Heckman
+  - Collin Lynch
+  publisher: Proceedings of the 55th ACM Technical Symposium on Computer Science Education
+    V. 1
+  date: '2024-03-07'
+  link: https://doi.org/10.1145/3626252.3630851
+  image: https://duke.box.com/shared/static/dabygh9d7jyxmulro1pjepv6km1qe1wn.png
   plugin: sources.py
   file: sources.yaml
