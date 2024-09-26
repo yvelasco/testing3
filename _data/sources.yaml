@@ -28,6 +28,19 @@
 # Too long to wait and not much to do: Modeling student behaviors while waiting for help in online office hours.
 - id: https://par.nsf.gov/biblio/10392589
 
+# Who Should I Help Next? Simulation of Office Hours Queue Scheduling Strategy in a CS2 Course
+- id: https://doi.org/10.5281/zenodo.12729866
+  image: https://duke.box.com/shared/static/fwsap9gen6ty2yc4qefb3gmlyj8w2heq.png
+
+# Academic Help Seeking Patterns in Introductory Computer Science Courses.
+- id: http://dx.doi.org/10.18260/1-2--41526
+  image: https://duke.box.com/shared/static/5kysrc8likp34rpoj3aduu503f7zfkdp.png
+
+# You asked, now what? Modeling Students’ Help-Seeking and Coding actions from Re- quest to Resolution
+- id: https://eric.ed.gov/?q=You+asked%2c+now+what%3f+Modeling+Students’+Help-Seeking+and+Coding+actions+from+Re-+quest+to+Resolution&id=EJ1373162
+#  image: https://duke.box.com/shared/static/5kysrc8likp34rpoj3aduu503f7zfkdp.png
+
+
 #https://par.nsf.gov/biblio/10392589
 #https://www.researchgate.net/publication/371072286_Too_long_to_wait_and_not_much_to_do_Modeling_student_behaviors_while_waiting_for_help_in_online_office_hours
 
