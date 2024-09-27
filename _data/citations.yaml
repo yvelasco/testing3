@@ -9,7 +9,7 @@
   publisher: Proceedings of the 2024 ACM Conference on International Computing Education
     Research - Volume 1
   date: '2024-08-12'
-  link: https://dl.acm.org/doi/10.1145/3632620.3671099
+  link: https://doi.org/10.1145/3632620.3671099
   description: This paper investigates the help-seeking behaviors of individual computing
     students across various course contexts, identifying which aspects are consistent
     for each student (individual-driven) and which vary depending on the course (context-driven),
@@ -24,8 +24,8 @@
   - Kristin Stephens-Martinez
   publisher: Proceedings of the 54th ACM Technical Symposium on Computer Science Education
     V. 1
-  date: '2023-03-02'
-  link: https://dl.acm.org/doi/10.1145/3545945.3569777
+  date: '2023-03-03'
+  link: https://doi.org/10.1145/3545945.3569777
   image: images/publication_images/doi.org_10.1145_3545945.3569777.png
   plugin: sources.py
   file: sources.yaml
@@ -37,7 +37,7 @@
   publisher: Proceedings of the 2022 ACM Conference on International Computing Education
     Research - Volume 2
   date: '2022-08-07'
-  link: https://dl.acm.org/doi/10.1145/3501709.3544286
+  link: https://doi.org/10.1145/3501709.3544286
   image: images/publication_images/doi.org_10.1145_3501709.3544286.png
   plugin: sources.py
   file: sources.yaml
@@ -45,14 +45,14 @@
   title: 'Exploring Novice Programmers'' Testing Behavior: A First Step to Define
     Coding Struggle'
   authors:
-  - Gabriel Silva De Oliveira
+  - Gabriel Silva de Oliveira
   - Zhikai Gao
   - Sarah Heckman
   - Collin Lynch
   publisher: Proceedings of the 55th ACM Technical Symposium on Computer Science Education
     V. 1
   date: '2024-03-07'
-  link: https://dl.acm.org/doi/10.1145/3626252.3630851
+  link: https://doi.org/10.1145/3626252.3630851
   image: images/publication_images/doi.org_10.1145_3626252.3630851.png
   plugin: sources.py
   file: sources.yaml
@@ -65,11 +65,11 @@
   - Collin Lynch
   - Sarah Heckman
   - Damilola Babalola
-  - Gabriel Silva De Oliveira
+  - Gabriel Silva de Oliveira
   publisher: Proceedings of the 55th ACM Technical Symposium on Computer Science Education
     V. 2
-  date: '2024-03-14'
-  link: https://dl.acm.org/doi/10.1145/3626253.3635517
+  date: '2024-03-15'
+  link: https://doi.org/10.1145/3626253.3635517
   image: images/publication_images/doi.org_10.1145_3626253.3635517.png
   plugin: sources.py
   file: sources.yaml
@@ -81,8 +81,8 @@
   - Sarah Heckman
   publisher: Proceedings of the 54th ACM Technical Symposium on Computer Science Education
     V. 2
-  date: '2022-03-01'
-  link: https://dl.acm.org/doi/10.1145/3545947.3576325
+  date: '2023-03-06'
+  link: https://doi.org/10.1145/3545947.3576325
   image: images/publication_images/no_img.png
   plugin: sources.py
   file: sources.yaml
@@ -147,8 +147,8 @@
   - Lina Battestilli
   publisher: Proceedings of the 2023 Conference on Innovation and Technology in Computer
     Science Education V. 1
-  date: '2023-06-29'
-  link: https://dl.acm.org/doi/10.1145/3587102.3588786
+  date: '2023-06-30'
+  link: https://doi.org/10.1145/3587102.3588786
   image: images/publication_images/doi.org_10.1145_3587102.3588786.png
   plugin: sources.py
   file: sources.yaml
@@ -166,20 +166,21 @@
   publisher: Proceedings of the 53rd ACM Technical Symposium on Computer Science Education
     V. 2
   date: '2022-03-03'
-  link: https://dl.acm.org/doi/10.1145/3478432.3499110
+  link: https://doi.org/10.1145/3478432.3499110
   image: images/publication_images/no_img.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1145/3478431.3499334
-  title: 'Who Uses Office Hours?: A Comparison of In-Person and Virtual Office Hours
-    Utilization'
+  title: Who Uses Office Hours? A Comparison of In-Person and Virtual Office Hours
+    Utilization
   authors:
   - Zhikai Gao
   - Sarah Heckman
   - Collin Lynch
   publisher: Proceedings of the 53rd ACM Technical Symposium on Computer Science Education
+    - Volume 1
   date: '2022-02-22'
-  link: https://dl.acm.org/doi/10.1145/3478431.3499334
+  link: https://doi.org/10.1145/3478431.3499334
   image: images/publication_images/doi.org_10.1145_3478431.3499334.png
   plugin: sources.py
   file: sources.yaml
@@ -224,7 +225,7 @@
   publisher: Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science
     Education
   date: '2017-03-08'
-  link: https://dl.acm.org/doi/10.1145/3017680.3017800
+  link: https://doi.org/10.1145/3017680.3017800
   image: images/publication_images/doi.org_10.1145_3017680.3017800.png
   plugin: sources.py
   file: sources.yaml
@@ -241,7 +242,7 @@
   publisher: Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science
     Education
   date: '2017-03-08'
-  link: https://dl.acm.org/doi/10.1145/3017680.3017745
+  link: https://doi.org/10.1145/3017680.3017745
   image: images/publication_images/doi.org_10.1145_3017680.3017745.png
   plugin: sources.py
   file: sources.yaml
