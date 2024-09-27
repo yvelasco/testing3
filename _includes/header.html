@@ -20,10 +20,12 @@
     {% if logo %}
       <span class="logo">
         {% if svg %}
-          {{ svg | file_read }}
+          <div style="transform: scale(2);">
+            {{ svg | file_read }}
+          </div>
         {% else %}
-          <img src="{{ logo | relative_url }}" alt="logo">
-        {% endif %}
+          <img src="{{ logo | relative_url }}" alt="logo" style="width: 200%; height: auto;">
+        {% endif %}        
       </span>
     {% endif %}
     {% if site.logo-text != false %}
