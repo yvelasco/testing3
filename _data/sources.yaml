@@ -4,26 +4,26 @@
 # The Trees in the Forest: Characterizing Computing Students' Individual Help-Seeking Approaches
 - id: https://doi.org/10.1145/3632620.3671099
   description: This paper investigates the help-seeking behaviors of individual computing students across various course contexts, identifying which aspects are consistent for each student (individual-driven) and which vary depending on the course (context-driven), aiming to enhance personalized educational support strategies.  
-  image: https://duke.box.com/shared/static/n1265pzl4c75ezru5zvx3jfk2jyo6icr.png
+  image: images/publication_images/doi.org_10.1145_3632620.3671099.png
 
 # ==================================
 # Below are all other publications
 # ==================================
 # What Drives Students to Office Hours: Individual Differences and Similarities
 - id: https://doi.org/10.1145/3545945.3569777
-  image: https://duke.box.com/shared/static/lzynqrpx2m0dvj2vkgy9hojt2ytraal2.png
+  image: images/publication_images/doi.org_10.1145_3545945.3569777.png
 
 # UPIC a Problem-Solving Framework: Understand, Plan, Implement, and Correctness/Debugging
 - id: https://doi.org/10.1145/3501709.3544286
-  image: https://duke.box.com/shared/static/9k4hzdh51za59kj5afua2h1vlksrs1a5.png
+  image: images/publication_images/doi.org_10.1145_3501709.3544286.png
 
 # Exploring Novice Programmers' Testing Behavior: A First Step to Define Coding Struggle
 - id: https://doi.org/10.1145/3626252.3630851
-  image: https://duke.box.com/shared/static/dabygh9d7jyxmulro1pjepv6km1qe1wn.png
+  image: images/publication_images/doi.org_10.1145_3626252.3630851.png
 
 # Using Survival Analysis to Model Students' Patience in Online Office Hour Queues
 - id: https://doi.org/10.1145/3626253.3635517
-  image: https://duke.box.com/shared/static/pkn1ziq3badfyftfusd1vj4xb0dvbaka.png
+  image: images/publication_images/doi.org_10.1145_3626253.3635517.png
 
 # Observations on Student Help-Seeking Behaviors in Introductory Computer Science Courses
 - id: https://doi.org/10.1145/3545947.3576325
@@ -33,47 +33,47 @@
 
 # Who Should I Help Next? Simulation of Office Hours Queue Scheduling Strategy in a CS2 Course
 - id: https://doi.org/10.5281/zenodo.12729866
-  image: https://duke.box.com/shared/static/fwsap9gen6ty2yc4qefb3gmlyj8w2heq.png
+  image: images/publication_images/doi.org_10.5281_zenodo.12729866.png
 
 # Academic Help Seeking Patterns in Introductory Computer Science Courses.
 - id: http://dx.doi.org/10.18260/1-2--41526
-  image: https://duke.box.com/shared/static/5kysrc8likp34rpoj3aduu503f7zfkdp.png
+  image: images/publication_images/dx.doi.org_10.18260_1-2--41526.png
 
 # You asked, now what? Modeling Students’ Help-Seeking and Coding actions from Re- quest to Resolution
 - id: https://eric.ed.gov/?id=EJ1373162
-  image: https://duke.box.com/shared/static/li0kg0wy19erjmkbgftzaz83sqkx7my9.png
+  image: images/publication_images/eric.ed.gov_?id=EJ1373162.png
 
 # Assessment of Self-Identified Learning Struggles in CS2 Programming Assignments
 - id: https://doi.org/10.1145/3587102.3588786
-  image: https://duke.box.com/shared/static/upz0eguyzk0pt24s44qepf93v25ta7qz.png
+  image: images/publication_images/doi.org_10.1145_3587102.3588786.png
 
 # Don't Just Paste Your Stacktrace: Shaping Discussion Forums in Introductory CS Courses
 - id: https://doi.org/10.1145/3478432.3499110
 
 # Who uses office hours? a comparison of in-person and virtual office hours utilization.
 - id: https://doi.org/10.1145/3478431.3499334
-  image: https://duke.box.com/shared/static/3580z530ax092fkajvzamdux96wzx6tt.png
+  image: images/publication_images/doi.org_10.1145_3478431.3499334.png
 
 # Admitting You Have a Problem Is the First Step: Modeling When and Why Students Seek Help in Programming Assignments
 - id: https://eric.ed.gov/?id=ED624046
-  image: https://duke.box.com/shared/static/7fsln59ug28v04w1xo951kd82o1hxzkz.png
+  image: images/publication_images/eric.ed.gov_?id=ED624046.png
 
 # Automatically Classifying Student Help Requests: A Multi-Year Analysis.
 - id: https://eric.ed.gov/?id=ED615496
-  image: https://duke.box.com/s/finpv5l406dr4g0empwxqf5q2s4shpdk 
-
+  image: images/publication_images/eric.ed.gov_?id=ED615496.png
+  
 # My digital hand: A tool for scaling up one-to-one peer teaching in support of computer science learning.
 - id: https://doi.org/10.1145/3017680.3017800
-  image: https://duke.box.com/shared/static/p98nbqnixe135qjgr2zxotbl56b8tzm1.png
+  image: images/publication_images/doi.org_10.1145_3017680.3017800.png
 
 # Deconstructing the discussion forum: Student questions and computer science learning.
 - id: https://doi.org/10.1145/3017680.3017745
-  image: https://duke.box.com/shared/static/9hr1zy9xjoyrn5v1jxk4qcrqdnmhmdsw.png
+  image: images/publication_images/doi.org_10.1145_3017680.3017745.png
 
 # S3xE7: Class Forums with Amogh Mannekote
 - id: https://csedpodcast.org/blog/s3e7_class_forums/
-  image: https://duke.box.com/shared/static/o10b61oyskn47g60sv7nvb03u425f3c8.png
+  image: images/publication_images/csed_podcast.png
 
 # S3xE9: Peer Teaching Summit at SIGCSE TS 2022
 - id: https://csedpodcast.org/blog/s3e9_peer_teaching/
-  image: https://duke.box.com/shared/static/o10b61oyskn47g60sv7nvb03u425f3c8.png
+  image: images/publication_images/csed_podcast.png
