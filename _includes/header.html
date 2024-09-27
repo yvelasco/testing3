@@ -24,7 +24,7 @@
             {{ svg | file_read }}
           </div>
         {% else %}
-          <img src="{{ logo | relative_url }}" alt="logo" style="width: 200%; height: auto;">
+          <img src="{{ logo | relative_url }}" alt="logo" style="transform: scale(2);">
         {% endif %}        
       </span>
     {% endif %}
