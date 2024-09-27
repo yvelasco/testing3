@@ -20,7 +20,7 @@ This project builds on a strong foundation of prior research, supported by the f
     - Lead PIs: Jeff Forbes (Duke University), Ketan Mayer-Patel (UNC Chapel Hill), Kristy Boyer (University of Florida), Sarah Heckman (NC State)
     - [News Article](https://www.csc.ncsu.edu/news/1768)
     - [Old Project Website](https://www.cs.unc.edu/~kmp/peerteachingfellows/)
-- **Related Award**: Developing Integrated Teaching Platforms to Enhance Blended Learning in STEM
+- **Related Award: Developing Integrated Teaching Platforms to Enhance Blended Learning in STEM**
   - PI: Collin Lynch, Co-PI: Sarah Heckman, Tiffany Barnes
   - NSF Award Number: DUE-1821475.
 
