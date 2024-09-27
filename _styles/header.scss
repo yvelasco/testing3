@@ -58,7 +58,7 @@ header a {
 }
 
 .title {
-  font-size: var(--large);
+  font-size: 2rem;   // Website title font size for the non-home page, used to be var(--large); */
 }
 
 .subtitle {
@@ -105,7 +105,7 @@ nav {
 
 nav > a {
   padding: 5px;
-  font-size: 2rem; // Menu font size override
+  font-size: 1.5rem; // Menu font size override
 }
 
 nav > a:hover {
