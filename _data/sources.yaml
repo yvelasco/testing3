@@ -27,9 +27,11 @@
 
 # Observations on Student Help-Seeking Behaviors in Introductory Computer Science Courses
 - id: https://doi.org/10.1145/3545947.3576325
+  image: images/publication_images/scroll-solid.svg
 
 # Too long to wait and not much to do: Modeling student behaviors while waiting for help in online office hours.
 - id: https://par.nsf.gov/biblio/10392589
+  image: images/publication_images/par.nsf.gov_biblio_10392589.png
 
 # Who Should I Help Next? Simulation of Office Hours Queue Scheduling Strategy in a CS2 Course
 - id: https://doi.org/10.5281/zenodo.12729866
@@ -49,6 +51,7 @@
 
 # Don't Just Paste Your Stacktrace: Shaping Discussion Forums in Introductory CS Courses
 - id: https://doi.org/10.1145/3478432.3499110
+  image: images/publication_images/scroll-solid.svg
 
 # Who uses office hours? a comparison of in-person and virtual office hours utilization.
 - id: https://doi.org/10.1145/3478431.3499334
@@ -73,7 +76,17 @@
 # S3xE7: Class Forums with Amogh Mannekote
 - id: https://csedpodcast.org/blog/s3e7_class_forums/
   image: images/publication_images/csed_podcast.png
+  title: 'CSED Podcast Episode - S3xE7: Class Forums with Amogh Mannekote'
+  authors:
+  - Kristin Stephens-Martinez
+  - Amogh Mannekote
+  publisher: Kristin Stephens-Martinez
 
 # S3xE9: Peer Teaching Summit at SIGCSE TS 2022
 - id: https://csedpodcast.org/blog/s3e9_peer_teaching/
   image: images/publication_images/csed_podcast.png
+  title: 'CSED Podcast Episode - S3xE9: Peer Teaching Summit at SIGCSE TS 2022'
+  authors:
+  - Kristin Stephens-Martinez
+  - Sarah Heckman
+  publisher: Kristin Stephens-Martinez
