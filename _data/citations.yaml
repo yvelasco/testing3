@@ -10,6 +10,10 @@
     Research - Volume 1
   date: '2024-08-12'
   link: https://doi.org/10.1145/3632620.3671099
+  description: This paper investigates the help-seeking behaviors of individual computing
+    students across various course contexts, identifying which aspects are consistent
+    for each student (individual-driven) and which vary depending on the course (context-driven),
+    aiming to enhance personalized educational support strategies.
   image: https://duke.box.com/shared/static/n1265pzl4c75ezru5zvx3jfk2jyo6icr.png
   plugin: sources.py
   file: sources.yaml
