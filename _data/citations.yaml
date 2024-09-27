@@ -83,6 +83,7 @@
     V. 2
   date: '2023-03-06'
   link: https://doi.org/10.1145/3545947.3576325
+  image: images/publication_images/scroll-solid.svg
   plugin: sources.py
   file: sources.yaml
 - id: https://par.nsf.gov/biblio/10392589
@@ -96,6 +97,7 @@
     (CSEDM) Workshop
   date: '2023-07-01'
   link: https://par.nsf.gov/biblio/10392589-too-long-wait-much-do-modeling-student-behaviors-while-waiting-help-online-office-hours
+  image: images/publication_images/par.nsf.gov_biblio_10392589.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.5281/zenodo.12729866
@@ -165,6 +167,7 @@
     V. 2
   date: '2022-03-03'
   link: https://doi.org/10.1145/3478432.3499110
+  image: images/publication_images/scroll-solid.svg
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1145/3478431.3499334
@@ -244,20 +247,22 @@
   plugin: sources.py
   file: sources.yaml
 - id: https://csedpodcast.org/blog/s3e7_class_forums/
-  title: 'S3xE7: Class Forums with Amogh Mannekote'
+  title: 'CSED Podcast Episode - S3xE7: Class Forums with Amogh Mannekote'
   authors:
-  - Kristin Stephen-Martinez
-  publisher: ''
+  - Kristin Stephens-Martinez
+  - Amogh Mannekote
+  publisher: Kristin Stephens-Martinez
   date: '2022-12-05'
   link: https://csedpodcast.org/blog/s3e7_class_forums/
   image: images/publication_images/csed_podcast.png
   plugin: sources.py
   file: sources.yaml
 - id: https://csedpodcast.org/blog/s3e9_peer_teaching/
-  title: 'S3xE9: Peer Teaching Summit at SIGCSE TS 2022'
+  title: 'CSED Podcast Episode - S3xE9: Peer Teaching Summit at SIGCSE TS 2022'
   authors:
-  - Kristin Stephen-Martinez
-  publisher: ''
+  - Kristin Stephens-Martinez
+  - Sarah Heckman
+  publisher: Kristin Stephens-Martinez
   date: '2023-03-06'
   link: https://csedpodcast.org/blog/s3e9_peer_teaching/
   image: images/publication_images/csed_podcast.png
