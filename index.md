@@ -10,6 +10,22 @@ Increasing enrollments in computer science (CS) courses lead to a low instructor
 
 This proposal builds upon previous work from the PIs, which investigated student interactions in office hours and online forums. We plan to extend this research to characterize the complex help resource landscape in CS courses, including both formal (TAs, office hours, online forums) and informal resources (peers, online resources, AI models). This research aims to provide a comprehensive understanding of the help resource landscape and develop strategies to enhance its effectiveness, particularly for underrepresented groups in CS. A key outcome of this research will be the design and implementation of an intervention to teach students how to navigate and use help resources effectively, with a focus on improving learning outcomes and retention in CS courses.
 
+
+## Prior Grants and Foundational Work
+This project builds on a strong foundation of prior research, supported by the following grants:
+- **CUE: Collaborative Research on Effective Peer Teaching Across Computing Pathways**
+  - NSF Award Numbers: NC State #1934975, Duke #1934965, UNC Chapel Hill #1935111, University of Florida #1935045
+- **Google Computer Science Capacity Award**
+  - Research Triangle Peer Teaching Fellows: Scalable Evidence-Based Peer Teaching for Improving CS Capacity and Diversity
+    - Lead PIs: Jeff Forbes (Duke University), Ketan Mayer-Patel (UNC Chapel Hill), Kristy Boyer (University of Florida), Sarah Heckman (NC State)
+    - [News Article](https://www.csc.ncsu.edu/news/1768)
+    - [Old Project Website](https://www.cs.unc.edu/~kmp/peerteachingfellows/)
+- **Related Award**: Developing Integrated Teaching Platforms to Enhance Blended Learning in STEM
+  - PI: Collin Lynch, Co-PI: Sarah Heckman, Tiffany Barnes
+  - NSF Award Number: DUE-1821475.
+
+These grants funded critical studies that investigated peer teaching and help-seeking interactions in large computing courses, with a focus on equitable student support. Insights from these projects directly inform the current research on help-seeking behaviors and strategies, allowing us to expand our understanding to a broader range of help-seeking resources and interventions.
+
 ## Goals
 1. Characterize the help resource landscape, how and why students traverse it, and whether their help resource use is effective.
 2. Empower students to effectively use the help resource landscape for their learning.
