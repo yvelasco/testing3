@@ -13,14 +13,14 @@ This proposal builds upon previous work from the PIs, which investigated student
 
 ## Prior Grants and Foundational Work
 This project builds on a strong foundation of prior research, supported by the following grants:
-- **CUE: Collaborative Research on Effective Peer Teaching Across Computing Pathways**
+- **CUE: [Collaborative Research on Effective Peer Teaching Across Computing Pathways](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934965&HistoricalAwards=false)**
   - NSF Award Numbers: NC State #1934975, Duke #1934965, UNC Chapel Hill #1935111, University of Florida #1935045
 - **Google Computer Science Capacity Award**
   - Research Triangle Peer Teaching Fellows: Scalable Evidence-Based Peer Teaching for Improving CS Capacity and Diversity
     - Lead PIs: Jeff Forbes (Duke University), Ketan Mayer-Patel (UNC Chapel Hill), Kristy Boyer (University of Florida), Sarah Heckman (NC State)
     - [News Article](https://www.csc.ncsu.edu/news/1768)
     - [Old Project Website](https://www.cs.unc.edu/~kmp/peerteachingfellows/)
-- **Related Award: Developing Integrated Teaching Platforms to Enhance Blended Learning in STEM**
+- **Related Award: [Developing Integrated Teaching Platforms to Enhance Blended Learning in STEM](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1821475&HistoricalAwards=false)**
   - PI: Collin Lynch, Co-PI: Sarah Heckman, Tiffany Barnes
   - NSF Award Number: DUE-1821475.
 
