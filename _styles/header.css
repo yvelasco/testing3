@@ -137,7 +137,7 @@ header[data-big] .title-text {
 }
 header[data-big] .title {
   /* font-size: var(--xxl); */
-  font-size: 5rem;
+  font-size: 4rem;
 }
 header[data-big] .subtitle {
   font-size: var(--large);
