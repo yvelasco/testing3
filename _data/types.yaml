@@ -1,9 +1,9 @@
 # map general type to default/fallback icon, text, etc.
 
 # team member roles
-
+# fa-solid fa-microscope
 pi:
-  icon: fa-solid fa-microscope
+  icon: fa-solid fa-laptop-code
   description: Principal Investigator
 
 postdoc:
