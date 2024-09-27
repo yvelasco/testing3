@@ -93,7 +93,7 @@ nav {
 
 nav > a {
   padding: 5px;
-  font-size: 4rem;
+  font-size: 2rem;
 }
 
 nav > a:hover {
@@ -137,7 +137,6 @@ header[data-big] .title-text {
   text-align: center;
 }
 header[data-big] .title {
-  /* font-size: var(--xxl); */
   font-size: 3rem;
 }
 header[data-big] .subtitle {
