@@ -14,8 +14,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="'The Trees in the Forest: Characterizing Computing Students'' Individual
-    Help-Seeking Approaches'" style="rich" %}
+{% include citation.html lookup="https://doi.org/10.1145/3632620.3671099" style="rich" %}
 
 {% include section.html %}
 
