@@ -11,9 +11,6 @@
 - id: https://doi.org/10.1145/3501709.3544286
   image: https://duke.box.com/shared/static/9k4hzdh51za59kj5afua2h1vlksrs1a5.png
 
-# Don't Just Paste Your Stacktrace: Shaping Discussion Forums in Introductory CS Courses
-- id: https://doi.org/10.1145/3478432.3499110
-
 # Exploring Novice Programmers' Testing Behavior: A First Step to Define Coding Struggle
 - id: https://doi.org/10.1145/3626252.3630851
   image: https://duke.box.com/shared/static/dabygh9d7jyxmulro1pjepv6km1qe1wn.png
@@ -60,7 +57,7 @@
   image: https://duke.box.com/s/finpv5l406dr4g0empwxqf5q2s4shpdk 
 
 # My digital hand: A tool for scaling up one-to-one peer teaching in support of computer science learning.
-- id: https://doi.org/10.1145/3017680.301780
+- id: https://doi.org/10.1145/3017680.3017800
   image: https://duke.box.com/shared/static/p98nbqnixe135qjgr2zxotbl56b8tzm1.png
 
 # Deconstructing the discussion forum: Student questions and computer science learning.
