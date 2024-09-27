@@ -27,7 +27,7 @@
 
 # Observations on Student Help-Seeking Behaviors in Introductory Computer Science Courses
 - id: https://doi.org/10.1145/3545947.3576325
-  image: images/publication_images/scroll-solid.svg
+  image: images/publication_images/no_img.png
 
 # Too long to wait and not much to do: Modeling student behaviors while waiting for help in online office hours.
 - id: https://par.nsf.gov/biblio/10392589
@@ -44,7 +44,7 @@
 
 # You asked, now what? Modeling Students’ Help-Seeking and Coding actions from Re- quest to Resolution
 - id: https://eric.ed.gov/?id=EJ1373162
-  image: images/publication_images/eric.ed.gov_?id=EJ1373162.png
+  image: images/publication_images/eric.ed.gov_EJ1373162.png
 
 # Assessment of Self-Identified Learning Struggles in CS2 Programming Assignments
 - id: https://doi.org/10.1145/3587102.3588786
@@ -52,7 +52,7 @@
 
 # Don't Just Paste Your Stacktrace: Shaping Discussion Forums in Introductory CS Courses
 - id: https://doi.org/10.1145/3478432.3499110
-  image: images/publication_images/scroll-solid.svg
+  image: images/publication_images/no_img.png
 
 # Who uses office hours? a comparison of in-person and virtual office hours utilization.
 - id: https://doi.org/10.1145/3478431.3499334
@@ -60,11 +60,11 @@
 
 # Admitting You Have a Problem Is the First Step: Modeling When and Why Students Seek Help in Programming Assignments
 - id: https://eric.ed.gov/?id=ED624046
-  image: images/publication_images/eric.ed.gov_?id=ED624046.png
+  image: images/publication_images/eric.ed.gov_ED624046.png
 
 # Automatically Classifying Student Help Requests: A Multi-Year Analysis.
 - id: https://eric.ed.gov/?id=ED615496
-  image: images/publication_images/eric.ed.gov_?id=ED615496.png
+  image: images/publication_images/eric.ed.gov_ED615496.png
   
 # My digital hand: A tool for scaling up one-to-one peer teaching in support of computer science learning.
 - id: https://doi.org/10.1145/3017680.3017800
