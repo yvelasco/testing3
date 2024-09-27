@@ -36,6 +36,7 @@
 # Who Should I Help Next? Simulation of Office Hours Queue Scheduling Strategy in a CS2 Course
 - id: https://doi.org/10.5281/zenodo.12729866
   image: images/publication_images/doi.org_10.5281_zenodo.12729866.png
+  publisher: International Educational Data Mining Society
   date: '2024-07-12'
 
 # Academic Help Seeking Patterns in Introductory Computer Science Courses.
@@ -81,7 +82,7 @@
   authors:
   - Kristin Stephens-Martinez
   - Amogh Mannekote
-  publisher: Kristin Stephens-Martinez
+  publisher: Produced by Kristin Stephens-Martinez and Amarachi Anakaraonye
 
 # S3xE9: Peer Teaching Summit at SIGCSE TS 2022
 - id: https://csedpodcast.org/blog/s3e9_peer_teaching/
@@ -90,4 +91,4 @@
   authors:
   - Kristin Stephens-Martinez
   - Sarah Heckman
-  publisher: Kristin Stephens-Martinez
+  publisher: Produced by Kristin Stephens-Martinez and Amarachi Anakaraonye
