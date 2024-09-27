@@ -14,7 +14,7 @@
     students across various course contexts, identifying which aspects are consistent
     for each student (individual-driven) and which vary depending on the course (context-driven),
     aiming to enhance personalized educational support strategies.
-  image: https://duke.box.com/shared/static/n1265pzl4c75ezru5zvx3jfk2jyo6icr.png
+  image: images/publication_images/doi.org_10.1145_3632620.3671099.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1145/3545945.3569777
@@ -26,7 +26,7 @@
     V. 1
   date: '2023-03-03'
   link: https://doi.org/10.1145/3545945.3569777
-  image: https://duke.box.com/shared/static/lzynqrpx2m0dvj2vkgy9hojt2ytraal2.png
+  image: images/publication_images/doi.org_10.1145_3545945.3569777.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1145/3501709.3544286
@@ -38,7 +38,7 @@
     Research - Volume 2
   date: '2022-08-07'
   link: https://doi.org/10.1145/3501709.3544286
-  image: https://duke.box.com/shared/static/9k4hzdh51za59kj5afua2h1vlksrs1a5.png
+  image: images/publication_images/doi.org_10.1145_3501709.3544286.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1145/3626252.3630851
@@ -53,7 +53,7 @@
     V. 1
   date: '2024-03-07'
   link: https://doi.org/10.1145/3626252.3630851
-  image: https://duke.box.com/shared/static/dabygh9d7jyxmulro1pjepv6km1qe1wn.png
+  image: images/publication_images/doi.org_10.1145_3626252.3630851.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1145/3626253.3635517
@@ -70,7 +70,7 @@
     V. 2
   date: '2024-03-15'
   link: https://doi.org/10.1145/3626253.3635517
-  image: https://duke.box.com/shared/static/pkn1ziq3badfyftfusd1vj4xb0dvbaka.png
+  image: images/publication_images/doi.org_10.1145_3626253.3635517.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1145/3545947.3576325
@@ -105,7 +105,7 @@
   publisher: ''
   date: ''
   link: https://zenodo.org/records/12729866
-  image: https://duke.box.com/shared/static/fwsap9gen6ty2yc4qefb3gmlyj8w2heq.png
+  image: images/publication_images/doi.org_10.5281_zenodo.12729866.png
   plugin: sources.py
   file: sources.yaml
 - id: http://dx.doi.org/10.18260/1-2--41526
@@ -117,7 +117,7 @@
   publisher: 2022 ASEE Annual Conference & Exposition Proceedings
   date: '2022-08-01'
   link: http://peer.asee.org/41526
-  image: https://duke.box.com/shared/static/5kysrc8likp34rpoj3aduu503f7zfkdp.png
+  image: images/publication_images/dx.doi.org_10.18260_1-2--41526.png
   plugin: sources.py
   file: sources.yaml
 - id: https://eric.ed.gov/?id=EJ1373162
@@ -133,7 +133,7 @@
   publisher: Journal of Educational Data Mining
   date: '2022-01-01'
   link: https://eric.ed.gov/?id=EJ1373162
-  image: https://duke.box.com/shared/static/li0kg0wy19erjmkbgftzaz83sqkx7my9.png
+  image: images/publication_images/eric.ed.gov_?id=EJ1373162.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1145/3587102.3588786
@@ -147,7 +147,7 @@
     Science Education V. 1
   date: '2023-06-30'
   link: https://doi.org/10.1145/3587102.3588786
-  image: https://duke.box.com/shared/static/upz0eguyzk0pt24s44qepf93v25ta7qz.png
+  image: images/publication_images/doi.org_10.1145_3587102.3588786.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1145/3478432.3499110
@@ -178,7 +178,7 @@
     - Volume 1
   date: '2022-02-22'
   link: https://doi.org/10.1145/3478431.3499334
-  image: https://duke.box.com/shared/static/3580z530ax092fkajvzamdux96wzx6tt.png
+  image: images/publication_images/doi.org_10.1145_3478431.3499334.png
   plugin: sources.py
   file: sources.yaml
 - id: https://eric.ed.gov/?id=ED624046
@@ -194,7 +194,7 @@
   publisher: International Educational Data Mining Society
   date: '2022-01-01'
   link: https://eric.ed.gov/?id=ED624046
-  image: https://duke.box.com/shared/static/7fsln59ug28v04w1xo951kd82o1hxzkz.png
+  image: images/publication_images/eric.ed.gov_?id=ED624046.png
   plugin: sources.py
   file: sources.yaml
 - id: https://eric.ed.gov/?id=ED615496
@@ -207,7 +207,7 @@
   publisher: International Educational Data Mining Society
   date: '2021-01-01'
   link: https://eric.ed.gov/?id=ED615496
-  image: https://duke.box.com/s/finpv5l406dr4g0empwxqf5q2s4shpdk
+  image: images/publication_images/eric.ed.gov_?id=ED615496.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1145/3017680.3017800
@@ -223,7 +223,7 @@
     Education
   date: '2017-03-08'
   link: https://doi.org/10.1145/3017680.3017800
-  image: https://duke.box.com/shared/static/p98nbqnixe135qjgr2zxotbl56b8tzm1.png
+  image: images/publication_images/doi.org_10.1145_3017680.3017800.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1145/3017680.3017745
@@ -240,7 +240,7 @@
     Education
   date: '2017-03-08'
   link: https://doi.org/10.1145/3017680.3017745
-  image: https://duke.box.com/shared/static/9hr1zy9xjoyrn5v1jxk4qcrqdnmhmdsw.png
+  image: images/publication_images/doi.org_10.1145_3017680.3017745.png
   plugin: sources.py
   file: sources.yaml
 - id: https://csedpodcast.org/blog/s3e7_class_forums/
@@ -250,7 +250,7 @@
   publisher: ''
   date: '2022-12-05'
   link: https://csedpodcast.org/blog/s3e7_class_forums/
-  image: https://duke.box.com/shared/static/o10b61oyskn47g60sv7nvb03u425f3c8.png
+  image: images/publication_images/csed_podcast.png
   plugin: sources.py
   file: sources.yaml
 - id: https://csedpodcast.org/blog/s3e9_peer_teaching/
@@ -260,6 +260,6 @@
   publisher: ''
   date: '2023-03-06'
   link: https://csedpodcast.org/blog/s3e9_peer_teaching/
-  image: https://duke.box.com/shared/static/o10b61oyskn47g60sv7nvb03u425f3c8.png
+  image: images/publication_images/csed_podcast.png
   plugin: sources.py
   file: sources.yaml
