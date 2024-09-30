@@ -116,9 +116,9 @@
   - Lina Battestilli
   - Matthew Zahn
   - Sarah Heckman
-  publisher: 2022 ASEE Annual Conference & Exposition Proceedings
-  date: '2022-08-01'
-  link: http://peer.asee.org/41526
+  publisher: ''
+  date: '2022-08-23'
+  link: https://peer.asee.org/academic-help-seeking-patterns-in-introductory-computer-science-courses
   image: images/publication_images/dx.doi.org_10.18260_1-2--41526.png
   plugin: sources.py
   file: sources.yaml
