@@ -1,9 +1,14 @@
 # ==================================
 # Publications for the current grant
 # ==================================
+# Investigating Students' Perspectives on the Value of Help-Seeking Resources in CS Education
+- id: https://doi.org/10.1145/3649165.3690130
+  description: This study examines the experiences of CS2 students with help-seeking resources throughout a semester, identifying patterns through qualitative interviews and emergent coding to highlight both the benefits and challenges of resource utilization.  
+  image: images/publication_images/no_img.png
+
 # The Trees in the Forest: Characterizing Computing Students' Individual Help-Seeking Approaches
 - id: https://doi.org/10.1145/3632620.3671099
-  description: This paper investigates the help-seeking behaviors of individual computing students across various course contexts, identifying which aspects are consistent for each student (individual-driven) and which vary depending on the course (context-driven), aiming to enhance personalized educational support strategies.  
+  description: This paper investigates the help-seeking behaviors of individual computing students across various course contexts, identifying which aspects are consistent for each student (individual-driven) and which vary depending on the course (context-driven).  
   image: images/publication_images/doi.org_10.1145_3632620.3671099.png
 
 # ==================================
