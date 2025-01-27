@@ -5,6 +5,8 @@
 
 {% include section.html %}
 
+Sign up for project updates by filling out [this quick form.](https://duke.qualtrics.com/jfe/form/SV_cZnHOIslzA9inhY)
+
 ## Summary
 Increasing enrollments in computer science (CS) courses lead to a low instructor-to-student ratio, especially for introductory CS courses, which often include non-CS majors who need to learn fundamental computing skills. In large courses, students are more likely to interact with the course Teaching Assistants (TAs) rather than the main instructor. Modern CS courses have a high cognitive load and require the students to use various complex tools. To succeed in CS courses, students must be independent, highly self-regulated learners (SRL) who can navigate multiple help resources.
 
