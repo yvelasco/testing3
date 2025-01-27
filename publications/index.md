@@ -15,6 +15,8 @@ The following publications are directly linked to this grant's scope and objecti
 
 {% include citation.html lookup="https://doi.org/10.1145/3632620.3671099" style="rich" %}
 
+{% include citation.html lookup="[https://doi.org/10.1145/3632620.3671099](https://doi.org/10.1145/3649165.3690130)" style="rich" %}
+
 {% include section.html %}
 
 ## All Publications by Research Team
