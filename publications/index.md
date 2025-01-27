@@ -13,9 +13,9 @@ nav:
 
 The following publications are directly linked to this grant's scope and objectives. They showcase the key findings and innovations that this project is contributing to the field of computer science education:
 
-{% include citation.html lookup="https://doi.org/10.1145/3632620.3671099" style="rich" %}
+{% include citation.html lookup="https://doi.org/10.1145/3649165.3690130" style="rich" %}
 
-{% include citation.html lookup="[https://doi.org/10.1145/3632620.3671099](https://doi.org/10.1145/3649165.3690130)" style="rich" %}
+{% include citation.html lookup="https://doi.org/10.1145/3632620.3671099" style="rich" %}
 
 {% include section.html %}
 
