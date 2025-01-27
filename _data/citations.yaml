@@ -15,7 +15,7 @@
     resources throughout a semester, identifying patterns through qualitative interviews
     and emergent coding to highlight both the benefits and challenges of resource
     utilization.
-  image: images/publication_images/no_img.png
+  image: images/publication_images/doi.org_10.1145_3649165.3690130.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1145/3632620.3671099
@@ -264,7 +264,7 @@
   publisher: Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science
     Education
   date: '2017-03-08'
-  link: https://doi.org/10.1145/3017680.3017745
+  link: https://dl.acm.org/doi/10.1145/3017680.3017745
   image: images/publication_images/doi.org_10.1145_3017680.3017745.png
   plugin: sources.py
   file: sources.yaml
