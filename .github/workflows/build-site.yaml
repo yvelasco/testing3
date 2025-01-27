@@ -26,6 +26,14 @@ jobs:
       - name: Checkout branch contents
         uses: actions/checkout@v4
 
+      - name: Install Ruby if not present
+        run: |
+          if ! command -v ruby &> /dev/null
+          then
+            sudo apt update
+            sudo apt install -y ruby-full
+          fi
+
       - name: Install Ruby packages
         uses: ruby/setup-ruby@v1.172.0
         with:
