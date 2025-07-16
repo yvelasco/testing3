@@ -1,9 +1,30 @@
+name: build-preview
+run-name: build pull request preview
+
+on:
+  # run when called from another workflow
+  workflow_call:
+
+  # run if user manually requests it
+  workflow_dispatch:
+
+env:
+  PREVIEWS_FOLDER: preview
+
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   build-preview:
     runs-on: ubuntu-24.04
 
     steps:
-      - uses: actions/checkout@v4
+      # for debugging
+      - uses: crazy-max/ghaction-dump-context@v2
+
+      - name: Checkout branch contents
+        uses: actions/checkout@v4
         with:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.head_ref }}
