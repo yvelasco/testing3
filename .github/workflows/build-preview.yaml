@@ -8,6 +8,7 @@ on:
   # run if user manually requests it
   workflow_dispatch:
 
+# variables
 env:
   PREVIEWS_FOLDER: preview
 
@@ -17,7 +18,7 @@ permissions:
 
 jobs:
   build-preview:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
 
     steps:
       # for debugging
@@ -29,27 +30,24 @@ jobs:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.head_ref }}
 
-      - name: Install Ruby 3.1.4 manually using ruby-build
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y \
-            build-essential libssl-dev libreadline-dev zlib1g-dev git curl
-          git clone https://github.com/rbenv/ruby-build.git
-          export PREFIX="$HOME/.rbenv/versions/3.1.4"
-          ./ruby-build/bin/ruby-build 3.1.4 "$PREFIX"
-          echo "$PREFIX/bin" >> $GITHUB_PATH
-
-      - name: Install bundler and install dependencies
-        run: |
-          ruby -v
-          gem install bundler
-          bundle install --jobs 4 --retry 3
+      - name: Install Ruby packages
+        if: github.event.action != 'closed'
+        uses: ruby/setup-ruby@v1.172.0
+        with:
+          ruby-version: "3.1"
+          bundler-cache: true
 
       - name: Get Pages url
+        if: github.event.action != 'closed'
         id: pages
         uses: actions/configure-pages@v4
 
+      # for debugging
+      - if: runner.debug == '1'
+        uses: mxschmitt/action-tmate@v3
+
       - name: Build preview version of site
+        if: github.event.action != 'closed'
         run: |
           JEKYLL_ENV=production bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path || '' }}/${{ env.PREVIEWS_FOLDER }}/pr-${{ github.event.number }}"
 
