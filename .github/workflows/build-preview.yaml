@@ -30,6 +30,23 @@ jobs:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.head_ref }}
 
+      - name: Manually install Ruby 3.1.4 if missing (Ubuntu 24.04 workaround)
+        if: github.event.action != 'closed'
+        run: |
+          if [ ! -x /opt/hostedtoolcache/Ruby/3.1.4/x64/bin/ruby ]; then
+            sudo apt-get update
+            sudo apt-get install -y build-essential libssl-dev libreadline-dev zlib1g-dev git curl
+            git clone https://github.com/rbenv/ruby-build.git
+            sudo mkdir -p /opt/hostedtoolcache/Ruby/3.1.4/x64
+            ./ruby-build/bin/ruby-build 3.1.4 /opt/hostedtoolcache/Ruby/3.1.4/x64
+            sudo touch /opt/hostedtoolcache/Ruby/3.1.4/x64.complete
+          fi
+
+      - name: Add manually installed Ruby to PATH
+        if: github.event.action != 'closed'
+        run: |
+          echo "/opt/hostedtoolcache/Ruby/3.1.4/x64/bin" >> $GITHUB_PATH
+
       - name: Install Ruby packages
         if: github.event.action != 'closed'
         uses: ruby/setup-ruby@v1.172.0
