@@ -18,7 +18,7 @@ permissions:
 jobs:
   build-site:
     # ubuntu-latest
-    runs-on: ubuntu-22.04 
+    runs-on: ubuntu-24.04 #ubuntu-22.04 
 
     steps:
       # for debugging
@@ -27,13 +27,20 @@ jobs:
       - name: Checkout branch contents
         uses: actions/checkout@v4
 
-      - name: Install Ruby if not present
+      - name: Manually install Ruby 3.1.4 if missing (Ubuntu 24.04 workaround)
         run: |
-          if ! command -v ruby &> /dev/null
-          then
-            sudo apt update
-            sudo apt install -y ruby-full
+          if [ ! -x /opt/hostedtoolcache/Ruby/3.1.4/x64/bin/ruby ]; then
+            sudo apt-get update
+            sudo apt-get install -y build-essential libssl-dev libreadline-dev zlib1g-dev git curl
+            git clone https://github.com/rbenv/ruby-build.git
+            sudo mkdir -p /opt/hostedtoolcache/Ruby/3.1.4/x64
+            ./ruby-build/bin/ruby-build 3.1.4 /opt/hostedtoolcache/Ruby/3.1.4/x64
+            sudo touch /opt/hostedtoolcache/Ruby/3.1.4/x64.complete
           fi
+
+      - name: Add manually installed Ruby to PATH
+        run: |
+          echo "/opt/hostedtoolcache/Ruby/3.1.4/x64/bin" >> $GITHUB_PATH
 
       - name: Install Ruby packages
         uses: ruby/setup-ruby@v1.172.0
