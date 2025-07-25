@@ -47,3 +47,12 @@ Liquid doesn’t mutate in place, so we build a filtered copy instead.
 {% for item in non_grant_citations %}
   {% include citation.html lookup=item.id style="rich" %}
 {% endfor %}
+
+
+
+<h3>DEBUG: DOIs in non_grant_citations</h3>
+<ul>
+  {% for item in non_grant_citations %}
+    <li>{{ item.id }}</li>
+  {% endfor %}
+</ul>
