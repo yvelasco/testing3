@@ -23,14 +23,14 @@ The following publications are directly linked to this grant's scope and objecti
 
 These works represent the broader research contributions from our team that have laid the foundation for this project and continue to inform our approach to investigating student help-seeking behaviors:
 
-{% assign highlighted_citations = "
-https://doi.org/10.1145/3649165.3690130,
-https://doi.org/10.1145/3632620.3671099"
-| split: "," | map: "strip" %}
+{% assign raw_highlighted = "https://doi.org/10.1145/3649165.3690130, https://doi.org/10.1145/3632620.3671099" %}
+{% assign highlighted_citations = raw_highlighted | split: "," %}
+
 
 {% assign non_highlighted = site.data.citations %}
 {% for doi in highlighted_citations %}
-  {% assign non_highlighted = non_highlighted | reject: "id", doi %}
+  {% assign trimmed_doi = doi | strip %}
+  {% assign non_highlighted = non_highlighted | reject: "id", trimmed_doi %}
 {% endfor %}
 
 {% include search-box.html %}
