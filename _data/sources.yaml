@@ -11,9 +11,29 @@
   description: This paper investigates the help-seeking behaviors of individual computing students across various course contexts, identifying which aspects are consistent for each student (individual-driven) and which vary depending on the course (context-driven).  
   image: images/publication_images/doi.org_10.1145_3632620.3671099.png
 
+# Prior What Experience? The Relationship Between Prior Experience and Student Help-Seeking Beyond CS1
+- id: https://doi.org/10.1145/3724363.3729092
+  description: This study explores how different types of prior experience relate to computing students’ help-seeking behaviors across multiple course contexts beyond CS1, highlighting how these relationships vary depending on the type of help resource and instructional context. 
+  image: images/publication_images/doi.org_10.1145_3724363.3729092.png
+
+# Rethinking Computing Students’ Help Resource Utilization through Sequentiality
+- id: https://doi.org/10.1145/3716860
+  description: This study investigates computing students’ help-seeking behaviors across multiple course contexts by analyzing self-reported and behavioral data to understand the order in which they use help resources, how these reported sequences align with actual usage, and what sequential patterns emerge during assignment-level help-seeking. 
+  image: images/publication_images/doi.org_10.1145_3716860.png
+
+# Student Perceptions of the Help Resource Landscape
+- id: https://doi.org/10.1145/3641554.370185
+  description: Using survey data from multiple CS courses, this paper examines how students value different dimensions of the help-seeking landscape, how these values influence the order in which resources are used, and how student identities relate to their perceptions of help resources. 
+  image: images/publication_images/doi.org_10.1145_3641554.370185.png
+
 # ==================================
 # Below are all other publications
 # ==================================
+
+# Satisfactory for All: Supporting Mastery Learning with Human-in-the-loop Assessments in a Discrete Math Course
+- id: https://doi.org/10.1145/3641554.3701854
+  image: images/publication_images/doi.org_10.1145_3641554.3701854.png
+
 # What Drives Students to Office Hours: Individual Differences and Similarities
 - id: https://doi.org/10.1145/3545945.3569777
   image: images/publication_images/doi.org_10.1145_3545945.3569777.png
