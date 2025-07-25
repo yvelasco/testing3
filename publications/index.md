@@ -33,3 +33,8 @@ The loop below is roughly equivalent to:
 non_grant_citations = [item for item in all_citations if item["id"].strip() not in grant_citations]
 Liquid doesn’t mutate in place, so we build a filtered copy instead.
 {% endcomment %}
+
+{% for doi in grant_citations %}
+  {% assign trimmed_doi = doi | strip %}
+  {% assign non_grant_citations = non_grant_citations | reject: "id", trimmed_doi %}
+{% endfor %}
