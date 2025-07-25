@@ -38,3 +38,8 @@ Liquid doesn’t mutate in place, so we build a filtered copy instead.
   {% assign trimmed_doi = doi | strip %}
   {% assign non_grant_citations = non_grant_citations | reject: "id", trimmed_doi %}
 {% endfor %}
+
+{% include search-box.html %}
+{% include search-info.html %}
+
+{% comment %} Show non-grant-specific publications {% endcomment %}
