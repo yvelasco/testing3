@@ -30,6 +30,12 @@ These works represent the broader research contributions from our team that have
 {% assign non_highlighted = site.data.citations %}
 {% for doi in highlighted_citations %}
   {% assign trimmed_doi = doi | strip %}
+  
+  {% comment %}
+  The line below is equivalent to:
+  non_highlighted = [item for item in non_highlighted if item["id"] != trimmed_doi]
+  This filters out previously highlighted citations.
+  {% endcomment %}
   {% assign non_highlighted = non_highlighted | reject: "id", trimmed_doi %}
 {% endfor %}
 
@@ -37,4 +43,5 @@ These works represent the broader research contributions from our team that have
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% comment %} Show all non-highlighted citations {% endcomment %}
+{% include list.html data=non_highlighted component="citation" style="rich" %}
