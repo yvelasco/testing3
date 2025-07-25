@@ -27,3 +27,9 @@ These works represent the broader research contributions from our team that have
 {% assign all_citations = site.data.citations %}
 {% comment %} The variable below will be modified later. {% endcomment %}
 {% assign non_grant_citations = all_citations %}
+
+{% comment %}
+The loop below is roughly equivalent to:
+non_grant_citations = [item for item in all_citations if item["id"].strip() not in grant_citations]
+Liquid doesn’t mutate in place, so we build a filtered copy instead.
+{% endcomment %}
