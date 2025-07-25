@@ -27,34 +27,3 @@ These works represent the broader research contributions from our team that have
 {% assign all_citations = site.data.citations %}
 {% comment %} The variable below will be modified later. {% endcomment %}
 {% assign non_grant_citations = all_citations %}
-
-
-{% comment %}
-Debug: check each item in grant_citations. If any is not a proper DOI string,
-force a build failure by including a nonexistent file.
-This makes debugging visible in GitHub Actions logs.
-{% endcomment %}
-{% for doi in grant_citations %}
-  {% unless doi contains "http" %}
-    {% assign debug_error = "ERROR: Unexpected non-string DOI value: " | append: doi %}
-    {{ debug_error }}
-    {% include 404.md %}
-  {% endunless %}
-{% endfor %}
-
-{% comment %}
-The loop below is roughly equivalent to:
-non_grant_citations = [item for item in all_citations if item["id"].strip() not in grant_citations]
-Liquid doesn’t mutate in place, so we build a filtered copy instead.
-{% endcomment %}
-
-{% for doi in grant_citations %}
-  {% assign trimmed_doi = doi | strip %}
-  {% assign non_grant_citations = non_grant_citations | reject: "id", trimmed_doi %}
-{% endfor %}
-
-{% include search-box.html %}
-{% include search-info.html %}
-
-{% comment %} Show non-grant-specific publications {% endcomment %}
-{% include list.html data=non_grant_citations component="citation" style="rich" %}
