@@ -43,3 +43,4 @@ Liquid doesn’t mutate in place, so we build a filtered copy instead.
 {% include search-info.html %}
 
 {% comment %} Show non-grant-specific publications {% endcomment %}
+{% include list.html data=non_grant_citations component="citation" style="rich" %}
