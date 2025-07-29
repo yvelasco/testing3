@@ -15,9 +15,9 @@ nav:
 {% comment %} The variable below will be modified later. {% endcomment %}
 {% assign non_grant_citations = all_citations %}
 
-## Grant-Specific Publications
+## Publications Related to This Project’s Core Scope
 
-The following publications are directly linked to this grant's scope and objectives. They showcase the key findings and innovations that this project is contributing to the field of computer science education:
+These publications align with the central aims of this project. They showcase the key findings and innovations that this project is contributing to the field of computer science education:
 
 {% for doi in grant_citations %}
   {% include citation.html lookup=doi style="rich" %}
@@ -25,9 +25,9 @@ The following publications are directly linked to this grant's scope and objecti
 
 {% include section.html %}
 
-## All Publications by Research Team
+## Additional Publications
 
-These works represent the broader research contributions from our team that have laid the foundation for this project and continue to inform our approach to investigating student help-seeking behaviors:
+The following works reflect other contributions from our research team that, while outside the immediate scope of this project, provide valuable context and complementary insights.
 
 {% comment %} Trim grant DOIs {% endcomment %}
 {% assign trimmed_grant_dois = "" | split: "" %}
