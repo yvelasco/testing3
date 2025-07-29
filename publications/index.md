@@ -15,7 +15,7 @@ nav:
 {% comment %} The variable below will be modified later. {% endcomment %}
 {% assign non_grant_citations = all_citations %}
 
-## Publications Related to This Project’s Core Scope
+## Publications Related To This Project’s Core Scope
 
 These publications align with the central aims of this project. They showcase the key findings and innovations that this project is contributing to the field of computer science education:
 
