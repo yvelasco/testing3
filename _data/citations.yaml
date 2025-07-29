@@ -67,17 +67,24 @@
   image: images/publication_images/doi.org_10.1145_3716860.png
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1145/3641554.370185
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://doi.org/10.1145/3641554.370185
+- id: https://doi.org/10.1145/3641554.3701851
+  title: Student Perceptions of the Help Resource Landscape
+  authors:
+  - Shao-Heng Ko
+  - Kristin Stephens-Martinez
+  - Matthew Zahn
+  - Yesenia Velasco
+  - Lina Battestilli
+  - Sarah Heckman
+  publisher: Proceedings of the 56th ACM Technical Symposium on Computer Science Education
+    V. 1
+  date: '2025-02-12'
+  link: https://dl.acm.org/doi/10.1145/3641554.3701851
   description: Using survey data from multiple CS courses, this paper examines how
     students value different dimensions of the help-seeking landscape, how these values
     influence the order in which resources are used, and how student identities relate
     to their perceptions of help resources.
-  image: images/publication_images/doi.org_10.1145_3641554.370185.png
+  image: images/publication_images/doi.org_10.1145_3641554.3701851.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1145/3641554.3701854
